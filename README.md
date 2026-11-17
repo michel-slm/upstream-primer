@@ -7,7 +7,7 @@ directly with Fedora, EPEL, CentOS Stream and the CentOS Hyperscale and
 Proposed Updates SIGs, and how to keep your own distribution team
 informed while doing so.
 
-It summarises and links the projects' own documentation rather than
+It summarizes and links the projects' own documentation rather than
 repeating it. Where the two disagree, the project docs are the
 reference, and a fix belongs there first.
 
@@ -22,12 +22,12 @@ reference, and a fix belongs there first.
 Edit the parts, run `make`, and commit both. `make check` fails if
 `primer.md` is out of date.
 
-## Using it inside an organisation
+## Using it inside an organization
 
 Each release attaches `primer.md` to its
 [GitHub release](https://github.com/slopfest/upstream-primer/releases).
 To adapt it internally, import that file unchanged and keep your
-organisation's details (who the distribution team is, where to reach
+organization's details (who the distribution team is, where to reach
 them, internal repositories) in a separate addendum, starting from
 [addendum-template.md](addendum-template.md). Refreshing the
 internal copy is then a re-import, and the diff between two releases
@@ -44,4 +44,4 @@ is one.
 ## License
 
 [CC BY-SA 4.0](LICENSE), the license of the Fedora documentation it
-summarises.
+summarizes.

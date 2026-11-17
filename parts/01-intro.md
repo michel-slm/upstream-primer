@@ -9,7 +9,7 @@ Most of what a CentOS Stream fleet runs comes from public projects:
 Fedora, EPEL, CentOS Stream, and CentOS Special Interest Groups (SIGs)
 such as Hyperscale and Proposed Updates. You can work with all of them
 directly, as anyone can. Please do: report bugs, open pull or merge
-requests, and request packages yourself, then tell your organisation's
+requests, and request packages yourself, then tell your organization's
 distribution team what you did. That keeps them informed and able to
 help when needed, without making them a step you wait on.
 
@@ -37,7 +37,7 @@ EPEL or CentOS Stream directly, or can't go there in time.
 
 ## Working with your distribution team
 
-Many organisations have a team that maintains their Linux
+Many organizations have a team that maintains their Linux
 distribution: which packages hosts get, from where, and how updates
 roll out. These sections assume yours does.
 
@@ -67,7 +67,7 @@ makes them quick.
 
 Telling them is not asking permission. It lets them:
 
-- **Prioritise.** With limited time, they spend it where the fleet
+- **Prioritize.** With limited time, they spend it where the fleet
   impact is largest, which they can only judge if they know what is
   in flight and what it affects.
 - **Avoid duplicate work.** Two teams often hit the same bug. They can
