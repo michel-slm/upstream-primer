@@ -28,7 +28,8 @@ Each release attaches `primer.md` to its
 [GitHub release](https://github.com/slopfest/upstream-primer/releases).
 To adapt it internally, import that file unchanged and keep your
 organisation's details (who the distribution team is, where to reach
-them, internal repositories) in a separate addendum. Refreshing the
+them, internal repositories) in a separate addendum, starting from
+[addendum-template.md](addendum-template.md). Refreshing the
 internal copy is then a re-import, and the diff between two releases
 shows what changed.
 
