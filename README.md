@@ -25,7 +25,7 @@ Edit the parts, run `make`, and commit both. `make check` fails if
 ## Using it inside an organization
 
 Each release attaches `primer.md` to its
-[GitHub release](https://github.com/slopfest/upstream-primer/releases).
+[GitHub release](https://github.com/michel-slm/upstream-primer/releases).
 To adapt it internally, import that file unchanged and keep your
 organization's details (who the distribution team is, where to reach
 them, internal repositories) in a separate addendum, starting from
