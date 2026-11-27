@@ -27,11 +27,10 @@ fix, often a security one, that can't wait for Stream's own schedule.
      [CentOS Stream's GitLab](https://gitlab.com/redhat/centos-stream/rpms),
      one per Stream branch.
   2. Ask the SIG to pick it up, with the merge request's URL.
-
-  The SIG builds and tracks it from there. See
-  [Proposing an update](https://sigs.centos.org/proposed_updates/contributing/proposing/).
-  sandogasa's `cpu-sig-tracker` drafts the Jira issue and opens the
-  merge request; the SIG builds with `cbspkg`. See [Tools](#tools).
+  3. The SIG builds and tracks it from there. See
+     [Proposing an update](https://sigs.centos.org/proposed_updates/contributing/proposing/).
+     sandogasa's `cpu-sig-tracker` drafts the Jira issue and opens the
+     merge request; the SIG builds with `cbspkg`. See [Tools](#tools).
 - **Talking to the SIG:** the Matrix room
   [#centos-proposed-updates:fedoraproject.org](https://matrix.to/#/#centos-proposed-updates:fedoraproject.org)
   and the

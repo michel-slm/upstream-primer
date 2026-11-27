@@ -87,9 +87,8 @@ doc/ (fedora-copr/copr at 3b57ec6e4, 2026-11-13).
     packages; a conflict is allowed only between `-devel` packages,
     and only when it can't be avoided:
     https://docs.fedoraproject.org/en-US/epel/epel-policy/#conflicts_in_compat_packages
-
-  Such cases sometimes go to [Hyperscale](#hyperscale) instead, even
-  where EPEL's policy would permit them
+  - Such cases sometimes go to [Hyperscale](#hyperscale) instead,
+    even where EPEL's policy would permit them
 - Ask the Fedora maintainer to branch and build it for EPEL by
   filing a Bugzilla request: product `Fedora EPEL`, version `epel10`
   (or `epel9`, `epel8`), summary "Please branch and build <package>
